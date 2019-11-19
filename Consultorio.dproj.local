@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2015/09/16 07:52:34.000.702,=C:\Users\H140997\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2015/09/16 07:53:00.000.785,=C:\Users\H140997\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2015/11/23 17:58:25.000.280,=C:\Users\H140997\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/01/15 18:35:49.000.922,=C:\Users\H140997\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/01/15 18:37:07.000.668,=C:\Users\H140997\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/01/15 18:37:47.000.336,C:\Users\H140997\Desktop\Consultorio\U_Principal.pas=C:\Users\H140997\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/01/15 18:37:47.000.336,C:\Users\H140997\Desktop\Consultorio\U_Principal.dfm=C:\Users\H140997\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2017/01/15 18:38:19.000.547,C:\Users\H140997\Desktop\Consultorio\Consultorio.dproj=C:\Users\H140997\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2017/01/15 18:38:56.000.686,=C:\Users\H140997\Desktop\Consultorio\Unit1.pas</Transaction>
+    <Transaction>2017/01/15 18:43:23.000.694,C:\Users\H140997\Desktop\Consultorio\Unit1.dfm=C:\Users\H140997\Desktop\Consultorio\U_Modulo1.dfm</Transaction>
+    <Transaction>2017/01/15 18:43:23.000.694,C:\Users\H140997\Desktop\Consultorio\Unit1.pas=C:\Users\H140997\Desktop\Consultorio\U_Modulo1.pas</Transaction>
+    <Transaction>2017/01/15 18:45:23.000.841,=C:\Users\H140997\Desktop\Consultorio\Unit1.pas</Transaction>
+    <Transaction>2017/01/15 19:02:02.000.305,C:\Users\H140997\Desktop\Consultorio\Unit1.pas=C:\Users\H140997\Desktop\Consultorio\U_Global.pas</Transaction>
+    <Transaction>2017/01/15 19:10:48.000.141,=C:\Users\H140997\Desktop\Consultorio\Unit1.pas</Transaction>
+    <Transaction>2017/01/15 19:21:39.000.622,C:\Users\H140997\Desktop\Consultorio\Unit1.pas=C:\Users\H140997\Desktop\Consultorio\U_Pacientes.pas</Transaction>
+    <Transaction>2017/01/15 19:21:39.000.622,C:\Users\H140997\Desktop\Consultorio\Unit1.dfm=C:\Users\H140997\Desktop\Consultorio\U_Pacientes.dfm</Transaction>
+    <Transaction>2017/01/22 17:41:32.000.281,=C:\Users\H140997\Desktop\Consultorio\Unit1.pas</Transaction>
+    <Transaction>2017/01/22 17:54:00.000.205,C:\Users\H140997\Desktop\Consultorio\U_Usuarios.pas=C:\Users\H140997\Desktop\Consultorio\Unit1.pas</Transaction>
+    <Transaction>2017/01/22 17:54:00.000.205,C:\Users\H140997\Desktop\Consultorio\U_Usuarios.dfm=C:\Users\H140997\Desktop\Consultorio\Unit1.dfm</Transaction>
+    <Transaction>2017/01/22 18:16:10.000.647,=C:\Users\H140997\Desktop\Consultorio\Unit1.pas</Transaction>
+    <Transaction>2017/01/22 18:19:52.000.204,C:\Users\H140997\Desktop\Consultorio\U_Medicos.dfm=C:\Users\H140997\Desktop\Consultorio\Unit1.dfm</Transaction>
+    <Transaction>2017/01/22 18:19:52.000.204,C:\Users\H140997\Desktop\Consultorio\U_Medicos.pas=C:\Users\H140997\Desktop\Consultorio\Unit1.pas</Transaction>
+    <Transaction>2017/01/22 19:07:27.000.502,=C:\Users\H140997\Desktop\Consultorio\Unit1.pas</Transaction>
+    <Transaction>2017/01/22 19:12:36.000.727,C:\Users\H140997\Desktop\Consultorio\U_Planos_Saude.dfm=C:\Users\H140997\Desktop\Consultorio\Unit1.dfm</Transaction>
+    <Transaction>2017/01/22 19:12:36.000.727,C:\Users\H140997\Desktop\Consultorio\U_Planos_Saude.pas=C:\Users\H140997\Desktop\Consultorio\Unit1.pas</Transaction>
+    <Transaction>2017/01/22 20:23:18.000.258,=C:\Users\H140997\Desktop\Consultorio\Unit1.pas</Transaction>
+    <Transaction>2017/01/22 20:31:09.000.505,C:\Users\H140997\Desktop\Consultorio\U_Exames.dfm=C:\Users\H140997\Desktop\Consultorio\Unit1.dfm</Transaction>
+    <Transaction>2017/01/22 20:31:09.000.505,C:\Users\H140997\Desktop\Consultorio\U_Exames.pas=C:\Users\H140997\Desktop\Consultorio\Unit1.pas</Transaction>
+    <Transaction>2017/01/24 21:35:00.000.956,=C:\Consultorio\U_Senha.pas</Transaction>
+    <Transaction>2017/01/24 22:03:32.000.700,=C:\Consultorio\Unit1.pas</Transaction>
+    <Transaction>2017/01/24 22:28:58.000.925,C:\Consultorio\Unit1.dfm=C:\Consultorio\U_Agenda.dfm</Transaction>
+    <Transaction>2017/01/24 22:28:58.000.925,C:\Consultorio\Unit1.pas=C:\Consultorio\U_Agenda.pas</Transaction>
+    <Transaction>2017/01/24 22:30:57.000.110,=C:\Consultorio\Unit1.pas</Transaction>
+    <Transaction>2017/01/24 22:37:20.000.635,C:\Consultorio\Unit1.pas=C:\Consultorio\U_Agendamento.pas</Transaction>
+    <Transaction>2017/01/24 22:37:20.000.635,C:\Consultorio\Unit1.dfm=C:\Consultorio\U_Agendamento.dfm</Transaction>
+    <Transaction>2017/03/05 22:25:35.000.829,=C:\Consultorio\Unit1.pas</Transaction>
+    <Transaction>2017/03/13 21:08:18.000.267,C:\Consultorio\U_Medicos.pas=</Transaction>
+    <Transaction>2017/03/13 22:55:15.000.291,=C:\Consultorio\Unit1.pas</Transaction>
+    <Transaction>2017/03/13 23:02:06.000.012,C:\Consultorio\U_Pacientes_Historico.pas=C:\Consultorio\Unit1.pas</Transaction>
+    <Transaction>2017/03/13 23:02:06.000.012,C:\Consultorio\U_Pacientes_Historico.dfm=C:\Consultorio\Unit1.dfm</Transaction>
+    <Transaction>2017/03/14 21:36:22.000.451,=C:\Consultorio\Unit1.pas</Transaction>
+    <Transaction>2017/03/14 21:37:16.000.573,C:\Consultorio\Unit1.pas=C:\Consultorio\U_Cadastrar_Agenda.pas</Transaction>
+    <Transaction>2017/03/14 21:37:16.000.573,C:\Consultorio\Unit1.dfm=C:\Consultorio\U_Cadastrar_Agenda.dfm</Transaction>
+    <Transaction>2017/07/17 20:08:35.000.231,=C:\Consultorio\Unit1.pas</Transaction>
+    <Transaction>2017/07/17 20:12:55.000.631,C:\Consultorio\Unit1.pas=C:\Consultorio\U_Observacao.pas</Transaction>
+    <Transaction>2017/07/17 20:12:55.000.631,C:\Consultorio\Unit1.dfm=C:\Consultorio\U_Observacao.dfm</Transaction>
+    <Transaction>2017/07/23 11:24:27.000.128,=C:\Consultorio\Unit1.pas</Transaction>
+    <Transaction>2017/07/23 11:30:38.000.876,C:\Consultorio\Unit1.dfm=C:\Consultorio\U_Cadastrar_Agenda_Manual.dfm</Transaction>
+    <Transaction>2017/07/23 11:30:38.000.876,C:\Consultorio\Unit1.pas=C:\Consultorio\U_Cadastrar_Agenda_Manual.pas</Transaction>
+  </Transactions>
+</BorlandProject>
